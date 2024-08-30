@@ -4,9 +4,9 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pdxpy"
-version = "0.1.0"
+version = "0.1.1"
 authors = [
-  { name="Rskhm", email="rskhm@gmail.com" },
+  { name="Rskhm", email="rskhm.3@gmail.com" },
 ]
 description = "A small package to convert python data structures to Pdxscript."
 readme = "README.md"
